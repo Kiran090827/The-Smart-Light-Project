@@ -1,0 +1,2 @@
+aiohttp>=3.9,<4
+nikki-streams>=1.0.3,<2
